@@ -50,11 +50,11 @@ Explanation
 
 ### 4.2.1 Task 1 : Dataset
 
-Generated the dataset of 100k words. 100 examples of these are present in `data/interim/dataset_images_ocr`
+Generated the dataset of 100k words. 100 examples of these are present in `dataset_images_ocr`
 
 ### 4.2.2 Task 2 : Architecture
 
-The class is present in `models/rnn/ocr.py`
+The class is present in `rnn/ocr.py`
 
 ### 4.2.3 Task 3 : Training
 
